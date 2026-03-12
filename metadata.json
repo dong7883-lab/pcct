@@ -1,0 +1,5 @@
+{
+  "name": "Phân công Giám thị coi thi",
+  "description": "Ứng dụng phân công giám thị coi thi THPT Quốc gia, hỗ trợ nhập danh sách từ Excel và xuất kết quả ra Excel/Word.",
+  "requestFramePermissions": []
+}
